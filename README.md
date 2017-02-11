@@ -31,24 +31,24 @@
 | 2 | 2/23  | (NLP기초) Week Two: Introduction 2/2 |   |                           |
 |   |    |  (NLP실습) python, docker 환경설정  |   |                           |
 |   |    |  (ML기초) 2. Linear Regression with Multiple Variables  |   |                           |
-|   |    |  (DeepRL) Introduction and course overview  |   |                           |
+|   |    |  (DeepRL) Supervised learning and decision making  |   |                           |
 | 3 | 3/9  | (NLP기초) Week Three: NLP Tasks and Text Similarity (1) |   |                           |
 |   |    |  (NLP실습) nltk, konlpy, 은전한닢 |   |                           |
 |   |    |  (ML기초) 3. Logistic Regression  |   |                           |
-|   |    |  (DeepRL) Introduction and course overview  |   |                           |
+|   |    |  (DeepRL) Optimal control and planning  |   |                           |
 | 4 | 3/23  | (NLP기초) Week Three: NLP Tasks and Text Similarity (2) |   |                           |
 |   |    |  (NLP실습)   |   |                           |
 |   |    |  (ML기초) 4. Neural Networks: Representation  |   |                           |
-|   |    |  (DeepRL) Introduction and course overview  |   |                           |
+|   |    |  (DeepRL) Review section: autodiff, backpropagation, optimization  |   |                           |
 | 5 | 4/6  | (NLP기초) Week Four: Syntax and Parsing, Part 1 (1) |   |                           |
 |   |    |  (NLP실습)   |   |                           |
 |   |    |  (ML기초) 5. Neural Networks: Learning  |   |                           |
-|   |    |  (DeepRL) Introduction and course overview  |   |                           |
+|   |    |  (DeepRL) Learning dynamical system models from data  |   |                           |
 | 6 | 4/20  | (NLP기초) Week Four: Syntax and Parsing, Part 1 (2) |   |                           |
 |   |    |  (NLP실습)   |   |                           |
 |   |    |  (ML기초) 6. Advice for Applying Machine Learning  |   |                           |
-|   |    |  (DeepRL) Introduction and course overview  |   |                           |
+|   |    |  (DeepRL) Learning policies by imitating optimal controllers  |   |                           |
 | 7 | 5/4  | (NLP기초) Week Five: Syntax and Parsing, Part 2  |   |                           |
 |   |    |  (NLP실습)   |   |                           |
 |   |    |  (ML기초) 7. Machine Learning System Design  |   |                           |
-|   |    |  (DeepRL) Introduction and course overview  |   |                           |
+|   |    |  (DeepRL) Guest lecture: Igor Mordatch, OpenAI  |   |                           |
