@@ -25,6 +25,30 @@
 
 | 회차  | 일시   | 내용                                  | 발표자  |              발표자료                    |
 | ----- |:------:| :-------------------------------------|:-------:|:---------------------------------------- |
-| 1 | 2/9  | (NLP기초) Week One: Introduction 1/2 | 송치성  |                           |
+| 1 | 2/9  | (NLP기초) Week One : Introduction 1/2 | 송치성  |                           |
 |   |    |  (ML기초) 1. Introduction & Linear Regression with One Variable  |  김단비 |                           |
-|   |    |  (DeepRL) Introduction and course overview  |  김 |                           |
+|   |    |  (DeepRL) Introduction and course overview  |  김무성 |                           |
+| 2 | 2/23  | (NLP기초) Week Two: Introduction 2/2 |   |                           |
+|   |    |  (NLP실습) python, docker 환경설정  |   |                           |
+|   |    |  (ML기초) 2. Linear Regression with Multiple Variables  |   |                           |
+|   |    |  (DeepRL) Introduction and course overview  |   |                           |
+| 3 | 3/9  | (NLP기초) Week Three: NLP Tasks and Text Similarity (1) |   |                           |
+|   |    |  (NLP실습) nltk, konlpy, 은전한닢 |   |                           |
+|   |    |  (ML기초) 3. Logistic Regression  |   |                           |
+|   |    |  (DeepRL) Introduction and course overview  |   |                           |
+| 4 | 3/23  | (NLP기초) Week Three: NLP Tasks and Text Similarity (2) |   |                           |
+|   |    |  (NLP실습)   |   |                           |
+|   |    |  (ML기초) 4. Neural Networks: Representation  |   |                           |
+|   |    |  (DeepRL) Introduction and course overview  |   |                           |
+| 5 | 4/6  | (NLP기초) Week Four: Syntax and Parsing, Part 1 (1) |   |                           |
+|   |    |  (NLP실습)   |   |                           |
+|   |    |  (ML기초) 5. Neural Networks: Learning  |   |                           |
+|   |    |  (DeepRL) Introduction and course overview  |   |                           |
+| 6 | 4/20  | (NLP기초) Week Four: Syntax and Parsing, Part 1 (2) |   |                           |
+|   |    |  (NLP실습)   |   |                           |
+|   |    |  (ML기초) 6. Advice for Applying Machine Learning  |   |                           |
+|   |    |  (DeepRL) Introduction and course overview  |   |                           |
+| 7 | 5/4  | (NLP기초) Week Five: Syntax and Parsing, Part 2  |   |                           |
+|   |    |  (NLP실습)   |   |                           |
+|   |    |  (ML기초) 7. Machine Learning System Design  |   |                           |
+|   |    |  (DeepRL) Introduction and course overview  |   |                           |
