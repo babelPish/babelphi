@@ -7,16 +7,16 @@
 
 # 교재
 * PART I
-  * (ML기초) 앤드류 응 ML 기초 - https://www.coursera.org/learn/machine-learning#syllabus
-    * 강의슬라이드 - https://github.com/ShokuninSan/coursera-ml-class
-    * 참고자료(발표노트 정리) - http://www.holehouse.org/mlclass/
-  * (NLP기초) Introduction to Natural Language Processing 
-    * https://www.coursera.org/learn/natural-language-processing/ 
-  * (DeepRL) Deep Reinfocement Learning
-    * http://rll.berkeley.edu/deeprlcourse/
+    * (ML기초) 앤드류 응 ML 기초 - https://www.coursera.org/learn/machine-learning#syllabus
+         * 강의슬라이드 - https://github.com/ShokuninSan/coursera-ml-class
+         * 참고자료(발표노트 정리) - http://www.holehouse.org/mlclass/
+    * (NLP기초) Introduction to Natural Language Processing 
+         * https://www.coursera.org/learn/natural-language-processing/ 
+    * (DeepRL) Deep Reinfocement Learning
+         * http://rll.berkeley.edu/deeprlcourse/
 
-* 세 강좌 모두 해당 링크에 강의노트 공개하므로 자료 링크를 걸지 않습니다. 직접 해당 강좌를 수강해서 자료를 참조하세요. 
-* 스터디에서 진행할 보강&실습 자료는 링크합니다. 
+`세 강좌 모두 해당 링크에 강의노트 공개하므로 자료 링크를 걸지 않습니다. 직접 해당 강좌를 수강해서 자료를 참조하세요.`<br> 
+`스터디에서 진행할 보강&실습 자료는 링크합니다.` 
 
 # 커리큘럼
 
