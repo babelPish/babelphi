@@ -2,8 +2,8 @@
 바벨파이
 
 # 스터디 진행 
-* 바벨피쉬 - https://www.facebook.com/groups/babelPish/
-
+* 바벨피쉬 페이스북 그룹 - https://www.facebook.com/groups/babelPish/
+* 바벨피쉬 웹사이트 - http://babelpish.github.io/
 
 # 교재
 * PART I
