@@ -1,0 +1,8 @@
+babelphi:
+  image: babelpish/babelphi:0.1
+  ports:
+    - "8888:8888"
+    - "6006:6006"
+  volumes:
+    - ../../:/notebooks/work/babelphi
+  tty: true
