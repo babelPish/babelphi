@@ -23,7 +23,7 @@
   
 # 3. docker-compose 스크립트를 실행시킨다.
 * 터미널을 통해서 클로닝한 babelphi 하위 디렉토리 scripts/docker 안으로 이동한다.
-  - cd (설치경로)/babelphi/scripts/docker
+  - cd (설치경로)/babelphi/scripts/docker
 * 디렉토리 안에 docker-compose.yml 파일이 있다.
 * 다음의 명령어를 실행 
   - docker-compose up
