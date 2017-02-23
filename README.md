@@ -29,7 +29,7 @@
 |   |    |  (ML기초) 1. Introduction & Linear Regression with One Variable  |  김단비 |                           |
 |   |    |  (DeepRL) Introduction and course overview  |  김무성 |                           |
 | 2 | 2/23  | (NLP기초) Week Two: Introduction 2/2 |   |                           |
-|   |    |  (NLP실습) python, docker 환경설정  | 김무성  | [발표자료](https://github.com/babelPish/babelphi/blob/master/notebooks/0_init.md)                           |
+|   |    |  (NLP실습) python, docker 환경설정  | 김무성  | [도커환경설정](https://github.com/babelPish/babelphi/blob/master/notebooks/0_init.md), [파이썬3기초](https://github.com/babelPish/babelphi/blob/master/notebooks/ex00_python_basic/python3_basic.ipynb)                           |
 |   |    |  (ML기초) 2. Linear Regression with Multiple Variables  |   |                           |
 |   |    |  (DeepRL) Supervised learning and decision making  |   |                           |
 | 3 | 3/9  | (NLP기초) Week Three: NLP Tasks and Text Similarity (1) |   |                           |
